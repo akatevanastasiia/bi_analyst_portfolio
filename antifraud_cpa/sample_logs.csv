@@ -1,0 +1,6 @@
+user_id,event_time,source,medium
+u1,2026-09-01 10:00:00,yandex,cpc
+u1,2026-09-01 10:00:25,partner,cpa
+u2,2026-09-01 11:00:00,yandex,cpc
+u2,2026-09-01 12:30:00,partner,cpa
+u3,2026-09-01 13:00:00,partner,cpa
